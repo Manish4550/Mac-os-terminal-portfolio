@@ -1,4 +1,5 @@
 import "./app.scss"
+import Dock from "./component/Dock"
 
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
     <main>
-      
+      <Dock/>
     </main>
     </>
   )

@@ -1,5 +1,8 @@
 # 🖥️ MacOS Terminal Developer Portfolio
 
+<img width="1914" height="940" alt="Screenshot 2026-02-10 025730" src="https://github.com/user-attachments/assets/aec03796-a189-4afb-a6a1-1a33c1bc35af" />
+
+
 An interactive MacOS-inspired developer portfolio built using React.js.  
 This project simulates a real desktop experience with draggable windows, terminal commands, project previews, and resume access.
 

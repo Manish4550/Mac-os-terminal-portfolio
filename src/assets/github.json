@@ -11,7 +11,7 @@
 
    {
     "id": 2,
-    "image": "/public/Food Delivery Website with Realtime Map Live Tracking.png",
+    "image": "/Food Delivery Website with Realtime Map Live Tracking.png",
     "title": "Mern-Realtime-Food-Delivery",
     "description": "A 100% practical, real-world MERN Stack project built with modern technologies and production-level architecture.This project simulates a complete multi-role food delivery platform including User, Restaurant Owner, and Delivery Partner panels with realtime tracking and secure payments..",
     "tags": ["React","Backend", "Express.js","Node.js" , "MongoDB & Mongoose", "JWT", "Bryptjs","Tailwind", "Nodemailer (Mailtrap for email testing)"],
@@ -29,7 +29,7 @@
   },
    {
     "id": 4,
-    "image": "/public/mac repo.png",
+    "image": "/mac repo.png",
     "title": "Mac-os-terminal-portfolio",
     "description": "An interactive MacOS-inspired developer portfolio built using React.js This project simulates a real desktop experience with draggable windows,terminal commands, project previews, and resume access.",
     "tags": ["React.js", "SCSS","JavaScript (ES6+)"],

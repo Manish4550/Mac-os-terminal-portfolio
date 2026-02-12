@@ -8,14 +8,15 @@
     "repoLink": "https://github.com/Manish4550/Authentication",
     "demoLink": "https://authentication-97us.onrender.com"
   },
-  {
+
+   {
     "id": 2,
-    "image": "/project-2.png",
-    "title": "Mac-os-terminal-portfolio",
-    "description": "An interactive MacOS-inspired developer portfolio built using React.js This project simulates a real desktop experience with draggable windows,terminal commands, project previews, and resume access.",
-    "tags": ["React.js", "SCSS","JavaScript (ES6+)"],
-    "repoLink": "https://github.com/Manish4550/Mac-os-terminal-portfolio",
-    "demoLink": "https://mac-os-terminal-portfolio-ylvn.vercel.app/ "
+    "image": "/public/Food Delivery Website with Realtime Map Live Tracking.png",
+    "title": "Mern-Realtime-Food-Delivery",
+    "description": "A 100% practical, real-world MERN Stack project built with modern technologies and production-level architecture.This project simulates a complete multi-role food delivery platform including User, Restaurant Owner, and Delivery Partner panels with realtime tracking and secure payments..",
+    "tags": ["React","Backend", "Express.js","Node.js" , "MongoDB & Mongoose", "JWT", "Bryptjs","Tailwind", "Nodemailer (Mailtrap for email testing)"],
+    "repoLink": "https://github.com/Manish4550/mern-realtime-food-delivery",
+    "demoLink": "In progress....."
   },
   {
     "id": 3,
@@ -26,15 +27,16 @@
     "repoLink": "https://github.com/Manish4550/productivity-dashboard?tab=readme-ov-file",
     "demoLink": "https://productivity-dashboard-iota-six.vercel.app/"
   },
-  {
+   {
     "id": 4,
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=1000",
-    "title": "ChatStream - Real-time Messaging App",
-    "description": "A lightweight chat application allowing users to create rooms and message instantly. Optimized for low latency communication.",
-    "tags": ["Vue.js", "Firebase", "Tailwind CSS", "Socket.io"],
-    "repoLink": "https://github.com/vuejs/core",
-    "demoLink": "https://vuejs.org/"
+    "image": "/public/mac repo.png",
+    "title": "Mac-os-terminal-portfolio",
+    "description": "An interactive MacOS-inspired developer portfolio built using React.js This project simulates a real desktop experience with draggable windows,terminal commands, project previews, and resume access.",
+    "tags": ["React.js", "SCSS","JavaScript (ES6+)"],
+    "repoLink": "https://github.com/Manish4550/Mac-os-terminal-portfolio",
+    "demoLink": "https://mac-os-terminal-portfolio-ylvn.vercel.app/ "
   },
+ 
   {
     "id": 5,
     "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1000",
